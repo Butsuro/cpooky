@@ -6,42 +6,42 @@ const InstagramSection = () => {
   const posts = [
     {
       id: 1,
-      image: "/src/assets/post1.png",
+      image: "/assets/post1.png",
       likes: 234,
       caption: "Dawn runs hit different 🌅",
       comments: 12
     },
     {
       id: 2,
-      image: "/src/assets/post2.png",
+      image: "/assets/post2.png",
       likes: 189,
       caption: "Brotherhood over everything 💪",
       comments: 8
     },
     {
       id: 3,
-      image: "/src/assets/post3.png",
+      image: "/assets/post3.png",
       likes: 312,
       caption: "The art of disappearing ✨",
       comments: 15
     },
     {
       id: 4,
-      image: "/src/assets/post4.png",
+      image: "/assets/post4.png",
       likes: 276,
       caption: "Fajr gang 🏃‍♂️",
       comments: 20
     },
     {
       id: 5,
-      image: "/src/assets/post5.png",
+      image: "/assets/post5.png",
       likes: 198,
       caption: "Post-run vibes 🔥",
       comments: 9
     },
     {
       id: 6,
-      image: "/src/assets/post6.png",
+      image: "/assets/post6.png",
       likes: 245,
       caption: "All paces welcome 🤝",
       comments: 11
@@ -66,7 +66,7 @@ const InstagramSection = () => {
               <div className="w-32 h-32 rounded-full bg-gradient-to-tr from-yellow-400 via-orange-500 to-pink-500 p-1">
                 <div className="w-full h-full rounded-full bg-black p-1">
                   <img
-                    src="/src/assets/hero-bg.jpg"
+                    src="/assets/hero-bg.jpg"
                     alt="CPKY"
                     className="w-full h-full rounded-full object-cover"
                   />

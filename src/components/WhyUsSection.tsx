@@ -16,7 +16,7 @@ const MerchSection = () => {
               {/* CPOOKY Logo Image */}
               <div className="">
                 <img 
-                  src="/src/assets/cpooky.png" 
+                  src="/assets/cpooky.png" 
                   alt="CPKY"
                   className="w-80 h-34 -ml-4"
                 />
@@ -35,9 +35,9 @@ const MerchSection = () => {
           <div className="relative">
             {/* Merch Image */}
             <img 
-              src="/src/assets/merch.jpg" 
+              src="/assets/merch.jpg" 
               alt="CPKY Tank Top"
-              className="w-full h-auto rounded-lg ml-32"
+              className="w-full h-auto rounded-lg"
             />
           </div>
         </div>

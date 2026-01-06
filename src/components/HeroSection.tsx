@@ -13,17 +13,17 @@ const HeroSection = () => {
           
           {/* Scrolling container - scrolls DOWN */}
           <div className="hidden lg:visible sm:block absolute left-0 top-0 w-full animate-scroll-down">
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
             {/* Duplicate set for seamless loop */}
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
           </div>
         </div>
       </div>
@@ -36,17 +36,17 @@ const HeroSection = () => {
           
           {/* Scrolling container - scrolls UP */}
           <div className="hidden sm:block absolute right-0 top-0 w-full animate-scroll-up">
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
             {/* Duplicate set for seamless loop */}
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
-            <img src="/src/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
+            <img src="/assets/heroPattern.png" alt="" className="w-full block opacity-60" />
           </div>
         </div>
       </div>

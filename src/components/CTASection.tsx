@@ -6,7 +6,7 @@ const CTASection = () => {
     <section id="contact" className="py-32 bg-card noise-overlay relative overflow-hidden">
       {/* Large Background Text */}
       <div className="absolute inset-0 flex items-center justify-center pointer-events-none overflow-hidden">
-        <span className="font-display text-[20vw] text-foreground/[0.03] tracking-widest whitespace-nowrap">
+        <span className="text-[20vw] text-foreground/[0.03] tracking-widest whitespace-nowrap" style={{ fontFamily: 'Ahsing' }}>
           CPOOKY
         </span>
       </div>
